@@ -1,0 +1,120 @@
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cur-input {
+  .el-form-item {
+    color: #4e5969;
+    border-radius: 2px;
+    background: var(--light-fill-2, #f2f3f5);
+    border-radius: 3px;
+    padding: 3px;
+  }
+
+  .el-radio-group {
+    padding: 10px;
+    height: 35px;
+    width: 100%;
+    border-radius: 2px;
+    border-left: 1px solid #ccc;
+  }
+
+  .el-input--medium {
+    border: none;
+    border-left: 1px solid #ccc;
+  }
+
+  .el-input--medium .el-input__inner {
+    height: 36px;
+    line-height: 36px;
+    border-radius: 2px;
+    background: var(--light-fill-2, #f2f3f5);
+    border: 0px;
+  }
+}
+.new-input {
+  .el-tag--plain.el-tag--success {
+    color: #ff7d00;
+    background-color: #fff7e8;
+    border: 0px;
+  }
+  .el-tag--plain.el-tag--warning {
+    color: #00b42a;
+    background-color: #e8ffea;
+    border: 0px;
+  }
+  .el-tag--plain.el-tag--danger {
+    color: #86909c;
+    background-color: #f2f3f5;
+    border: 0px;
+  }
+}
+.status-tag {
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+.status-tag-groupStatus-1 {
+  color: #3382ff;
+  background-color: #e8f3ff;
+}
+
+.status-tag-groupStatus-2 {
+  color: #00b42a;
+  background-color: #e8ffea;
+}
+.status-tag-groupStatus-3 {
+  color: #f7ba1e;
+  background-color: #fffce8;
+}
+.status-tag-groupStatus-4 {
+  color: #86909c;
+  background-color: #f2f3f5;
+}
+.status-tag-groupStatus-0 {
+  background-color: #fff7e8;
+  color: #ff7d00;
+}
+.status-tag-groupStatus-5 {
+  background-color: #ffece8;
+  color: #f53f3f;
+}
+
+.status-tag-groupStatus-6 {
+  background-color: #ffece8;
+  color: #f53f3f;
+}
+.status-tag-groupStatus-7 {
+  color: #0fc6c2;
+  background-color: #e8fffb;
+}
+
+.status-tag-jobStatus--1 {
+  color: #86909c;
+  background-color: #f2f3f5;
+}
+.status-tag-jobStatus-0 {
+  background-color: #fff7e8;
+  color: #ff7d00;
+}
+.status-tag-jobStatus-1 {
+  color: #3382ff;
+  background-color: #e8f3ff;
+}
+.status-tag-jobStatus-2 {
+  color: #f7ba1e;
+  background-color: #fffce8;
+}
+.status-tag-jobStatus-4 {
+  color: #00b42a;
+  background-color: #e8ffea;
+}
+.status-tag-jobStatus-5 {
+  color: #0fc6c2;
+  background-color: #e8fffb;
+}
+.status-tag-jobStatus-9 {
+  background-color: #ffece8;
+  color: #f53f3f;
+}

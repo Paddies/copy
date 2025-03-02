@@ -1,0 +1,13 @@
+<svg width="112" height="112" viewBox="0 0 112 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 60">
+<path id="Vector 11" d="M75 69H36" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<circle id="Ellipse 11" cx="56" cy="56" r="54" stroke="white" stroke-width="4"/>
+<g id="Rectangle 33">
+<mask id="path-3-inside-1_764_1988" fill="white">
+<rect x="33.0909" y="31.8181" width="45.8182" height="48.3636" rx="2"/>
+</mask>
+<rect x="33.0909" y="31.8181" width="45.8182" height="48.3636" rx="2" stroke="white" stroke-width="8" mask="url(#path-3-inside-1_764_1988)"/>
+</g>
+<path id="Vector 10" d="M54.7273 34.3635V48.5575C54.7273 48.9833 55.2256 49.2142 55.5505 48.939L60.4446 44.7934C60.8176 44.4774 61.3643 44.4774 61.7373 44.7934L66.6314 48.939C66.9563 49.2142 67.4546 48.9833 67.4546 48.5575V34.3635" stroke="white" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>

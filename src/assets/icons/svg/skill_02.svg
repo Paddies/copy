@@ -1,0 +1,13 @@
+<svg width="113" height="112" viewBox="0 0 113 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 58">
+<circle id="Ellipse 9" cx="56.3333" cy="56" r="54" stroke="white" stroke-width="4"/>
+<path id="Polygon 7" d="M60.4102 56L49.7424 63.2459L49.7424 48.754L60.4102 56Z" stroke="white" stroke-width="4"/>
+<g id="Rectangle 30">
+<mask id="path-3-inside-1_764_1970" fill="white">
+<rect x="30.8788" y="33.0908" width="45.8182" height="45.8182" rx="2"/>
+</mask>
+<rect x="30.8788" y="33.0908" width="45.8182" height="45.8182" rx="2" stroke="white" stroke-width="8" mask="url(#path-3-inside-1_764_1970)"/>
+</g>
+<path id="Rectangle 31" d="M75.3333 49L85.3851 43.5875C86.7176 42.87 88.3333 43.8351 88.3333 45.3484V66.6516C88.3333 68.1649 86.7176 69.13 85.3851 68.4125L75.3333 63" stroke="white" stroke-width="4"/>
+</g>
+</svg>

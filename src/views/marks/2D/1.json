@@ -1,0 +1,197 @@
+{
+    "version": "5.3.0",
+    "objects": [
+        {
+            "type": "rect",
+            "version": "5.3.0",
+            "left": 0,
+            "top": 0,
+            "width": 1127,
+            "height": 631,
+            "fill": "transparent",
+            "id": "workspace",
+            "selectable": false
+        },
+        {
+            "type": "rect",
+            "version": "5.3.0",
+            "left": 0,
+            "top": 0,
+            "width": 1127,
+            "height": 631,
+            "fill": "transparent",
+            "id": "workspace",
+            "selectable": false
+        },
+        {
+            "type": "rect",
+            "version": "5.3.0",
+            "left": 517,
+            "top": 129,
+            "width": 43,
+            "height": 51,
+            "fill": "transparent",
+            "stroke": "#f53f3f",
+            "strokeUniform": true,
+            "classId": 1,
+            "selectable": true
+        },
+        {
+            "type": "polygon",
+            "version": "5.3.0",
+            "left": 505.5,
+            "top": 221.5,
+            "width": 52,
+            "height": 51,
+            "fill": "transparent",
+            "stroke": "#7eb712",
+            "classId": 2,
+            "selectable": true,
+            "points": [
+                {
+                    "x": 511,
+                    "y": 222
+                },
+                {
+                    "x": 558,
+                    "y": 258
+                },
+                {
+                    "x": 506,
+                    "y": 273
+                },
+                {
+                    "x": 506,
+                    "y": 273
+                }
+            ]
+        },
+        {
+            "type": "polyline",
+            "version": "5.3.0",
+            "left": 509.5,
+            "top": 311.5,
+            "width": 48,
+            "height": 47,
+            "fill": "transparent",
+            "stroke": "#722ed1",
+            "strokeUniform": true,
+            "classId": 3,
+            "selectable": true,
+            "points": [
+                {
+                    "x": 510,
+                    "y": 317
+                },
+                {
+                    "x": 558,
+                    "y": 312
+                },
+                {
+                    "x": 529,
+                    "y": 359
+                },
+                {
+                    "x": 529,
+                    "y": 359
+                }
+            ]
+        },
+        {
+            "type": "rect",
+            "version": "5.3.0",
+            "left": 588,
+            "top": 151,
+            "width": 38,
+            "height": 42,
+            "fill": "transparent",
+            "stroke": "#853F38",
+            "strokeUniform": true,
+            "classId": 4,
+            "selectable": true
+        },
+        {
+            "type": "polyline",
+            "version": "5.3.0",
+            "left": 585.5,
+            "top": 311.5,
+            "width": 57,
+            "height": 41,
+            "fill": "transparent",
+            "stroke": "#343766",
+            "strokeUniform": true,
+            "classId": 5,
+            "selectable": true,
+            "points": [
+                {
+                    "x": 586,
+                    "y": 315
+                },
+                {
+                    "x": 643,
+                    "y": 312
+                },
+                {
+                    "x": 605,
+                    "y": 353
+                },
+                {
+                    "x": 605,
+                    "y": 353
+                }
+            ]
+        },
+        {
+            "type": "polygon",
+            "version": "5.3.0",
+            "left": 587.5,
+            "top": 239.5,
+            "width": 38,
+            "height": 58,
+            "fill": "transparent",
+            "stroke": "#3E7E3F",
+            "classId": 6,
+            "selectable": true,
+            "points": [
+                {
+                    "x": 588,
+                    "y": 244
+                },
+                {
+                    "x": 626,
+                    "y": 240
+                },
+                {
+                    "x": 600,
+                    "y": 298
+                },
+                {
+                    "x": 600,
+                    "y": 298
+                }
+            ]
+        }
+    ],
+    "clipPath": {
+        "type": "rect",
+        "version": "5.3.0",
+        "left": 0,
+        "top": 0,
+        "width": 1127,
+        "height": 631,
+        "fill": "transparent",
+        "selectable": true
+    },
+    "backgroundImage": {
+        "type": "image",
+        "version": "5.3.0",
+        "left": 0,
+        "top": 0,
+        "width": 1127,
+        "height": 631,
+        "selectable": true,
+        "src": "http://localhost/dev-api/tools/view?fileId=1742394841539006464",
+        "crossOrigin": "anonymous",
+        "filters": []
+    }
+}
